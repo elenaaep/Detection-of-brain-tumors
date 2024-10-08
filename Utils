@@ -1,0 +1,12 @@
+## Requirements
+
+Libraries:
+
+matplotlib
+tensorflow
+PIL
+cv2
+imutils
+os
+
+brain_tumor_detector.h5 file
